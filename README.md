@@ -41,7 +41,7 @@ These are ideas planned for future versions to improve gameplay and learning:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/guess-my-number.git
+   git clone https://github.com/Luciferalpha1/Guess-My-Number-v1.0.git
 
 
 ## NOTE
